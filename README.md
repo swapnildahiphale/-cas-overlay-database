@@ -66,3 +66,5 @@ Run the CAS web application as an executable WAR via Spring Boot. This is most u
 
 Deploy resultant `target/cas.war`  to a servlet container of choice.
 
+## How to setup & configure CAS with Database
+Reference: http://www.ekiras.com/2014/12/how-to-setup-and-configure-cas-with-database.html
